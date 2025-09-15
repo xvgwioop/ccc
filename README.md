@@ -34,7 +34,7 @@
     text-align: center;
     width: 100%;
     box-shadow: 0 0 20px rgba(0,0,0,0.1);
-    transition: transform 0.8s ease, opacity 0.5s ease;
+    transition: transform 0.5s ease, opacity 0.5s ease;
   }
 
   h2 {
@@ -74,7 +74,7 @@
     display: none;
     opacity: 0;
     transform: translateX(150%);
-    transition: transform 0.8s ease, opacity 0.8s ease;
+    transition: transform 0.5s ease, opacity 0.5s ease;
   }
 
   /* กล่องรูปภาพเลื่อนเข้า */
